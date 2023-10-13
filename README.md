@@ -1,4 +1,4 @@
 # Demo_project
 This is my first repository.
 <br>
-Author - ritik kumar
+Author - ritik raushan
